@@ -26,7 +26,7 @@ STEP 11: End
 ```py
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: LAVANYA S
+Developed by: LAVANYA S 
 RegisterNumber: 212223230112
 */
 import pandas as pd
